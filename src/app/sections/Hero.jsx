@@ -29,13 +29,6 @@ const Hero = () => {
           />
         </div>
       </div>
-      <Image
-        src='/images/hero-default-solid.png'
-        objectFit='cover'
-        fill={true}
-        className='w-full h-full object-cover rotate-180'
-        alt='mountain range with snow'
-      />
     </section>
   )
 }
